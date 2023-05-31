@@ -1,0 +1,36 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color: rgb(5, 113, 70);
+
+}
+h1#principal {
+    text-align: center;
+    background-color: rgb(14, 50, 94);
+    color: rgb(20, 149, 149);
+}
+h2 {
+    color: rgb(4, 61, 38)
+
+}
+
+.basico {
+    color: rgb(174, 27, 27)
+
+}
+
+.intermediario {
+    color: rgb(208, 240, 27)
+
+}
+
+.avancado {
+    color: rgb(16, 103, 68)
+
+}
+
+.destaque {
+    background-color: rgba(137, 43, 226, 0.653);
+}
